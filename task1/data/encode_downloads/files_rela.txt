@@ -1,0 +1,5 @@
+"https://www.encodeproject.org/metadata/?assay_title=TF+ChIP-seq&biosample_ontology.term_name=GM12878&target.label=RELA&files.file_format=bigBed&type=Experiment&cart=%2Fcarts%2F36d99c8a-1af3-4d4c-b715-bb8b7798bd9d%2F&files.processed=true"
+https://www.encodeproject.org/files/ENCFF242MZR/@@download/ENCFF242MZR.bigBed
+https://www.encodeproject.org/files/ENCFF695BHJ/@@download/ENCFF695BHJ.bigBed
+https://www.encodeproject.org/files/ENCFF565WAQ/@@download/ENCFF565WAQ.bigBed
+https://www.encodeproject.org/files/ENCFF513IEN/@@download/ENCFF513IEN.bigBed
